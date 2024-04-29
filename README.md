@@ -1,0 +1,1 @@
+Usando isocronas de diferentes edades, intenté lograr un ajuste a la curva de Color-Magnitud (diferente del Gráfico Hertprung-Russell) a fin de poder obtener un perfil de densidad radial, y comparar ese perfil con la predicción de algunos autores que dicen bajo ciertas suposiciones que existe materia oscura para cierta forma de los perfiles.
